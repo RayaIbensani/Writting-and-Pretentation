@@ -1,0 +1,2 @@
+# TUGAS WRITTING MINGGU PERTAMA
+## Unix Command Line
